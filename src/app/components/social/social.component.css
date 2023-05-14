@@ -1,4 +1,7 @@
+div {
+    padding: 10px;
+}
 img {
     width: 50px;
-    
+    padding-right: 10px;
 }
