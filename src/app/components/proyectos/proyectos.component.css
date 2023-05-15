@@ -7,6 +7,7 @@ div {
     text-align: center;
 
 }
-.img-proyf{ 
+#proyf{
+    -webkit-box-shadow: 3px 3px 6px 3px #000000; 
     box-shadow: 3px 3px 6px 3px #000000;
 }
